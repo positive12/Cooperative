@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svnroot/easyloanmanager/!svn/ver/2/lib
+END
+db_connect.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/easyloanmanager/!svn/ver/2/lib/db_connect.php
+END
+footer.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/easyloanmanager/!svn/ver/2/lib/footer.php
+END
+adodb.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/easyloanmanager/!svn/ver/2/lib/adodb.inc.php
+END
+config.conf.default
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/easyloanmanager/!svn/ver/2/lib/config.conf.default
+END
+header.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/easyloanmanager/!svn/ver/2/lib/header.php
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svnroot/easyloanmanager/!svn/ver/1/cmd
+END
+getloan.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/easyloanmanager/!svn/ver/1/cmd/getloan.php
+END
+saveaccount.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/easyloanmanager/!svn/ver/1/cmd/saveaccount.php
+END
+saveschedule.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/easyloanmanager/!svn/ver/1/cmd/saveschedule.php
+END
+getaccount.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/easyloanmanager/!svn/ver/1/cmd/getaccount.php
+END
+getschedule.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/easyloanmanager/!svn/ver/1/cmd/getschedule.php
+END
+getaccounttype.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/easyloanmanager/!svn/ver/1/cmd/getaccounttype.php
+END
+savetransaction.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/easyloanmanager/!svn/ver/1/cmd/savetransaction.php
+END
+gettransaction.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/easyloanmanager/!svn/ver/1/cmd/gettransaction.php
+END
+savecompany.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/easyloanmanager/!svn/ver/1/cmd/savecompany.php
+END
+getcompany.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/easyloanmanager/!svn/ver/1/cmd/getcompany.php
+END
+common.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/easyloanmanager/!svn/ver/1/cmd/common.php
+END
+getcompanytype.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/easyloanmanager/!svn/ver/1/cmd/getcompanytype.php
+END
+saveloan.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/easyloanmanager/!svn/ver/1/cmd/saveloan.php
+END

@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/easyloanmanager/!svn/ver/2/lib/drivers
+END
+adodb-proxy.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/easyloanmanager/!svn/ver/2/lib/drivers/adodb-proxy.inc.php
+END
+adodb-ibase.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/easyloanmanager/!svn/ver/2/lib/drivers/adodb-ibase.inc.php
+END
+adodb-borland_ibase.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/easyloanmanager/!svn/ver/2/lib/drivers/adodb-borland_ibase.inc.php
+END
+adodb-ado_access.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/easyloanmanager/!svn/ver/2/lib/drivers/adodb-ado_access.inc.php
+END
+adodb-firebird.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/easyloanmanager/!svn/ver/2/lib/drivers/adodb-firebird.inc.php
+END
+adodb-odbc_mssql.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/easyloanmanager/!svn/ver/2/lib/drivers/adodb-odbc_mssql.inc.php
+END
+adodb-mysqlt.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/easyloanmanager/!svn/ver/2/lib/drivers/adodb-mysqlt.inc.php
+END
+adodb-csv.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/easyloanmanager/!svn/ver/2/lib/drivers/adodb-csv.inc.php
+END
+adodb-odbc_oracle.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/easyloanmanager/!svn/ver/2/lib/drivers/adodb-odbc_oracle.inc.php
+END
+adodb-mssql.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/easyloanmanager/!svn/ver/2/lib/drivers/adodb-mssql.inc.php
+END
+adodb-oci8po.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/easyloanmanager/!svn/ver/2/lib/drivers/adodb-oci8po.inc.php
+END
+adodb-access.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/easyloanmanager/!svn/ver/2/lib/drivers/adodb-access.inc.php
+END
+adodb-oci8.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/easyloanmanager/!svn/ver/2/lib/drivers/adodb-oci8.inc.php
+END
+adodb-sqlanywhere.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/easyloanmanager/!svn/ver/2/lib/drivers/adodb-sqlanywhere.inc.php
+END
+adodb-ado.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/easyloanmanager/!svn/ver/2/lib/drivers/adodb-ado.inc.php
+END
+adodb-mysql.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/easyloanmanager/!svn/ver/2/lib/drivers/adodb-mysql.inc.php
+END
+adodb-oci805.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/easyloanmanager/!svn/ver/2/lib/drivers/adodb-oci805.inc.php
+END
+adodb-fbsql.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/easyloanmanager/!svn/ver/2/lib/drivers/adodb-fbsql.inc.php
+END
+adodb-db2.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/easyloanmanager/!svn/ver/2/lib/drivers/adodb-db2.inc.php
+END
+adodb-odbc.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/easyloanmanager/!svn/ver/2/lib/drivers/adodb-odbc.inc.php
+END

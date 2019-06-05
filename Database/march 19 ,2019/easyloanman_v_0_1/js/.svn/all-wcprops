@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svnroot/easyloanmanager/!svn/ver/2/js
+END
+loan.inc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/easyloanmanager/!svn/ver/2/js/loan.inc
+END
+account.inc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/easyloanmanager/!svn/ver/2/js/account.inc
+END
+schedule.inc
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/easyloanmanager/!svn/ver/2/js/schedule.inc
+END
+transaction.inc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/easyloanmanager/!svn/ver/2/js/transaction.inc
+END
+company.inc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/easyloanmanager/!svn/ver/2/js/company.inc
+END

@@ -1,0 +1,552 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"num",
+				"num2"
+			],
+			[
+				"c",
+				"clbck"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"nu",
+				"num1"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"fu",
+				"Function"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"p",
+				"php\t<?php … ?>"
+			],
+			[
+				"la",
+				"lamount"
+			],
+			[
+				"inre",
+				"interest"
+			],
+			[
+				"in",
+				"interest"
+			],
+			[
+				"suba",
+				"substr_replace"
+			],
+			[
+				"lamo",
+				"lamounts"
+			],
+			[
+				"co",
+				"connect"
+			],
+			[
+				"b",
+				"border-color\tproperty"
+			],
+			[
+				"for",
+				"for\tfor …"
+			],
+			[
+				"s",
+				"s_number"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"border-",
+				"border-radius\tproperty"
+			],
+			[
+				"con",
+				"conn"
+			],
+			[
+				"date",
+				"date_now"
+			],
+			[
+				"empl",
+				"employee_id"
+			],
+			[
+				"strp",
+				"strpos"
+			],
+			[
+				"ex",
+				"exit"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"da",
+				"damount"
+			],
+			[
+				"mysq",
+				"mysql_connect"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/it-admin/Desktop/Node/Js/Callback.js",
+			"settings":
+			{
+				"buffer_size": 302,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "sadasdas",
+			"file": "/home/it-admin/Desktop/Node/Js/hello",
+			"file_size": 8,
+			"file_write_time": 132040244373263413,
+			"settings":
+			{
+				"buffer_size": 8,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/it-admin/Desktop/Node/Js/sam.js",
+			"settings":
+			{
+				"buffer_size": 186,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Makefile/Make.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 74.0,
+		"history":
+		[
+			"ls",
+			"SAMPLE"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/it-admin/Desktop/Node",
+		"/home/it-admin/Desktop/Node/Js"
+	],
+	"file_history":
+	[
+		"/home/it-admin/Desktop/Node/http.js",
+		"/home/it-admin/Desktop/Node/Os.js",
+		"/home/it-admin/Desktop/Js/js.html",
+		"/home/it-admin/Desktop/Js/Return statement.html",
+		"/home/it-admin/Desktop/Js/nested.html",
+		"/home/it-admin/Desktop/Js/conditionfuction.html",
+		"/home/it-admin/.config/sublime-text-3/Packages/User/PHP",
+		"/home/it-admin/Desktop/Js/cal.html",
+		"/home/it-admin/.config/sublime-text-3/Packages/User/PHP.sublime-build",
+		"/home/it-admin/.config/sublime-text-3/Packages/User/Js.sublime-build",
+		"/home/it-admin/.config/sublime-text-3/Packages/User/browser.sublime-build",
+		"/var/www/html/inventory/item.php"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"  \t\n",
+			"{b}",
+			"${b}",
+			"b",
+			"a1",
+			"var os = require('os');\nconsole.log(\"Platform: \" + os.platform());\nconsole.log(\"Architecture: \" + os.arch());\nconsole.log(\"CPU : \" + os.cpus());",
+			"orange",
+			"\";\n",
+			"cars",
+			"        \n",
+			"cars[0]= \"apple\";",
+			"secondFunction",
+			"return",
+			"18",
+			"\"\";\n",
+			"\";\n",
+			"b",
+			"            \n",
+			" ()",
+			"        \n",
+			"                              \n",
+			"₱",
+			" =",
+			"Defference",
+			" >",
+			">\n",
+			" <td data-target=\"exname\">",
+			"Number",
+			">\n",
+			"php",
+			"'];\n",
+			"                            <th> Total Contribution</th>\n                            <th>Total Witdraw</th>\n                            <th>Difference</th>",
+			",)\");",
+			"\t\t\t\t(",
+			"`",
+			" `",
+			"error",
+			"lamounts",
+			"\"currency-field",
+			"₱",
+			"</b>",
+			"b",
+			"></",
+			"loan",
+			"s_name",
+			"s_category",
+			"?>\"><",
+			"a",
+			"?>\"",
+			"?> ",
+			"$connect",
+			"#logoutModals",
+			"\"\";\n",
+			"\t\t\t\n",
+			"\t\t\n",
+			"connect",
+			"\t\n",
+			".model-content",
+			"model-content",
+			");\n",
+			"$status == 'out'",
+			"out"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/it-admin/Desktop/Node/Js/Callback.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 302,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								70,
+								70
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/it-admin/Desktop/Node/Js/hello",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8,
+								8
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/it-admin/Desktop/Node/Js/sam.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 186,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								186,
+								186
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 96.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Js.sublime-build",
+	"project": "b.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"nes",
+				"Js/nested.html"
+			],
+			[
+				"Dash",
+				"cooperative/Admin/Dashboard.php"
+			],
+			[
+				"payslip_generate.php",
+				"payroll/admin/payslip_generate.php"
+			],
+			[
+				"styless",
+				"cooperative/Css/styless.css"
+			],
+			[
+				"dash",
+				"cooperative/Admin/Dashboard.php"
+			],
+			[
+				"item",
+				"inventory/item.php"
+			],
+			[
+				"a",
+				"apsystem/attendance.php"
+			],
+			[
+				"tra",
+				"cooperative/php/transaction-exc.php"
+			],
+			[
+				"in",
+				"sample1/index.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 215.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

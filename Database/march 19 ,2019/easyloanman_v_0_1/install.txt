@@ -1,0 +1,47 @@
+#######################################################################################
+
+Welcome to EasyLoanManager
+
+###########################################################
+
+
+
+Requirements
+#################
+
+   PHP 5.2 or greater
+   Apace 2 or greater
+   Mysql 4.0 or greater
+   Ext JS 2.2.1 SDK library
+
+
+Instatlation instructions for Version 0.1
+##########################
+
+1) Download the zip file easyloanman_v_0_1.zip
+
+2) Unzip the zip file into any folder
+
+3) Download the 'Ext JS 2.2.1 SDK' library from the following url
+
+     http://extjs.com/products/extjs/download.php
+
+4) Copy two of 'Ext JS SDK' folders into your Easy Loan Manager 'ext' foloder
+
+      ext-2.2                           easyloanman
+              -> adapter       --->         ->  ext
+              -> resources                           -> adapter
+                                                     -> resources
+
+5) Create new 'easyloanman' database in your MySQL database
+
+6) Install the database by running the script you can find in 
+    'Easy Loan Manager' root folder/easyloanman.sql.
+
+7) Open 'Easy Loan Manager' root folder/lib  folder
+       a) Rename config.conf.default to - > config.conf
+       b) Change the configuration setting in  config.conf file
+
+8) Configure your Apache, PHP to access the 'easy loan manager' root folder.
+
+9) You are done! .........

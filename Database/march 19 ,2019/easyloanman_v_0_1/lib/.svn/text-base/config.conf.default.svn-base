@@ -1,0 +1,13 @@
+<?php 
+$conn = "";
+$dbtype = "mysql";
+$dbhost = "localhost";
+$port   = "3306";
+$dbname = "finman";
+$dbuser = "root";
+$dbpasswd = "";
+
+$siterootpath = "E/htdocs/easyloanman/";
+$siterooturl = "http://localhost/easyloanman/";
+
+?>
